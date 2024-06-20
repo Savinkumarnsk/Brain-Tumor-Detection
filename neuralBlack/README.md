@@ -119,7 +119,7 @@ Follow the steps for installation given in the official website of [Pytorch](htt
 
 ## About
 
-This project was done by Akshay Kumaar M. Paper is in progress. All the references papers have been included at the end of this repository's README.
+This project was done by Savin Kumaar N. Paper is in progress. All the references papers have been included at the end of this repository's README.
 
 ## References
 
@@ -127,7 +127,7 @@ Thanks to [Vinoth Arjun](https://github.com/vinotharjun) for giving ideas for cu
 
 ## License
 
-Copyright 2020 Akshay Kumaar M
+Copyright 2020 Savin Kumar N
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
