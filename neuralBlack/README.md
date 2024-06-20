@@ -119,7 +119,7 @@ Follow the steps for installation given in the official website of [Pytorch](htt
 
 ## About
 
-This project was done by Savin Kumaar N. Paper is in progress. All the references papers have been included at the end of this repository's README.
+This project was done by Savin Kumar N. Paper is in progress. All the references papers have been included at the end of this repository's README.
 
 ## References
 
